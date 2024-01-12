@@ -4,11 +4,11 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/alok722" target="_blank">
-    <img alt="Twitter: alokr722" src="https://img.shields.io/twitter/follow/alok722.svg?style=social" />
+  <a href="https://twitter.com/FelixElessar" target="_blank">
+    <img alt="Twitter: @FelixElessar" src="https://img.shields.io/twitter/follow/FelixElessar?style=social" />
   </a>
-  <a href="https://github.com/alok722" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alok722?style=social">                                       
+  <a href="https://github.com/JohnFelixKipchumba" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnFelixKipchumba?style=social">    
   </a>
 </p>
 
@@ -65,12 +65,12 @@ Supported on Xampp v5.6.36
 
 ## Author
 
-👤 **Alok Raj**
+👤 **John Felix Kipchumba**
 
-* Website: https://opendevs.in
-* Twitter: [@alok722](https://twitter.com/alok722)
-* Github: [@alok722](https://github.com/alok722)
-* LinkedIn: [@alok722](https://linkedin.com/in/alok722)
+
+* Twitter: [FelixElessar](https://twitter.com/FelixElessar)
+* Github: [JohnFelix](https://github.com/JohnFelixKipchumba)
+* LinkedIn: [John Felix](https://linkedin.com/in/john-felix-7573a9277)
 
 ## 🗒 Future Plans
 
@@ -82,7 +82,7 @@ Supported on Xampp v5.6.36
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/alok722/E-Crime-Management-System/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/JohnFelixKipchumba/E-Crime-Management-System/issues). 
 
 ## Show your support
 
@@ -90,7 +90,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Alok Raj](https://github.com/alok722).
+Copyright © 2023 [John Felix Kipchumba](https://github.com/JohnFelixKipchumba).
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
