@@ -1,0 +1,92 @@
+<!-- Web page detailing the Contact Us page. Includes forms to be filled by the client as well as company directions.
+-->
+
+<!DOCTYPE html>
+<html>
+ <head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+
+	<title>Quality Bitumen Products Limited</title>
+    <!-- CSS file loading -->
+    <link rel="stylesheet" type="text/css" href="QBPL_Styler.css" />
+    <!-- Javascript file loading -->
+    <script type="text/javascript" src="QBPL_Handler.js"></script>
+
+ </head>
+ <body class="bodypage">
+ 	<div class="header">
+ 	 <p>	
+ 		<img src="assets/qbl-logo.png" id="logo" alt="logo" />
+ 		<span>Mon - Fri: 8.00-17.00<br />Sat: 8.00-13.00<br />Sun: Closed</span>
+ 	 </p>	
+ 	</div>
+ 	<div class="menubar">
+ 		<ul type="">
+ 			<li><a href="Homepage.html" target="_self">Home</a></li>
+ 			<li><a href="Products.html" target="_self">Products</a></li>
+ 			<li><a href="QualityControl.html" target="_self">Quality Control</a></li>
+ 			<li><a href="Clients.html" target="_self">Projects/Clients</a></li>
+ 			<li><a href="Contacts.html" target="_self">Contact us</a></li>
+ 		</ul>
+ 	</div>
+ 	<div class="title_1">
+ 		<h1>Contact Us</h1>
+		<div class="form">
+			<form action="" method="post" target="_self" onsubmit="formHandler()" >
+				<p>
+					Your Name<br />
+					<input type="Text" name="name" id="name" placeholder="Name" />
+				</p>
+				<p>
+					Your Gender<br />
+					<input type="radio" name="radiobutton" id="radiobutton" checked="male" />male
+					<input type="radio" name="radiobutton" id="radiobutton" />female
+				</p>
+				<p>
+					Your Email<br />
+					<input type="Email" name="email" id="email" placeholder="Email" maxlength="50" />
+				</p>
+				<p>
+					Subject<br />
+					<input type="Text" name="subject" id="subject" placeholder="Subject" />
+				</p>
+				<p>
+					Your Message:<br />
+					<textarea name="message" id="message" placeholder="Type your message" cols="24" rows="10"></textarea>
+				</p>
+				<input type="submit" name="send" id="send" value="Send" />
+			</form>
+		</div>
+		<div class="form">
+			<p>
+				Along the Thika Super Highway, branch into Outer Ring road at the Allsops interchange.<br />
+				Proceed on outer Ring Road, past the first Shell Petrol Station.<br />
+				Immediately after the footbridge turn on left into Baba Dogo Road.<br />
+			    Proceed on Baba Dogo Road then turn on the First left after East African Foundry Works.<br />
+			    Progress along the paved road, past Sai Raj, straight down a steep hill.<br />
+			    We are the last property, with a Grey/Black gate to the right.
+			</p>
+			<hr /><!-- horizontal line -->
+			<p>
+			  <span>
+				P.O BOX 101505-00101,<br />
+				www.quality bitumen products limited.com,<br />
+				NAIROBI.<br />
+				Tel:<br />
+				+254 202317140<br />
+				+254 202317146<br />
+				+254 722 622878<br />
+			  </span>
+			  <a href="https://www.google.com/maps?ll=-1.240451,36.881656&z=16&t=m&hl=en&gl=KE&mapclient=embed&cid=15733596489082472304" target="_blank" >Location on Google Maps</a>	
+			</p>
+		</div>
+ 	</div>
+ 	<div class="footer">
+ 		<p>
+ 			<b>2021 Copyright Quality Bitumen Products Limited</b>
+ 		</p>
+ 	</div>
+
+ </body>
+</html>
